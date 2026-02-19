@@ -573,8 +573,7 @@ cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 $ ^C
 $ exit
 ```
-Alternatifnya, Anda dapat menggunakan metode yang sama untuk menjalankan perintah dengan SSH tetapi menggunakan /bin/bash sebagai perintah untuk menjalankan shell bash atau menggunakan flag t, yang memungkinkan 'pseudo-terminal' berjalan di mesin target, dengan cara ini kita dapat menjalankan \bin\sh
-```
+Alternatifnya, Anda dapat menggunakan metode yang sama untuk menjalankan perintah dengan SSH tetapi menggunakan /bin/bash sebagai perintah untuk menjalankan shell bash atau menggunakan flag t, yang memungkinkan 'pseudo-terminal' berjalan di mesin target, dengan cara ini kita dapat menjalankan \bin\sh  
 
 ### Level 19-> 20
 ```bash
